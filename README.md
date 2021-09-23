@@ -1,4 +1,4 @@
-<h1>Превью для - https://github.com/IlfatKar/glassesPlugin</h1>
+<h1><a href="https://ilfatkar.github.io/glassPluginPrewiew/"></a>  Превью для - <a href="https://github.com/IlfatKar/glassesPlugin">этого проекта</a></h1>
 Краткая суть: <br>
 Это виджет  виртуального  зеркала  для  примерки  очков.
 Подключатся  к  любой  HTML – странице  путем  подключения  файла  со 
