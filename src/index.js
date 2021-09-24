@@ -6,7 +6,7 @@
     <div class="camerabg"></div>
     </div>
     <div class="btn btn-upload" id="upload-btn">
-      <img src="../assets/img/Camera.svg" alt="camera">
+      <img src="./assets/img/Camera.svg" alt="camera">
       <p class="title fs12">Upload</p>
     </div>
     </div>
@@ -66,7 +66,7 @@
          <img class="mirrorglass" src="" alt=" ">
       </div>
       <div class="btn btn-upload" id="upload-btn">
-        <img src="../assets/img/Camera.svg" alt="camera">
+        <img src="./assets/img/Camera.svg" alt="camera">
         <p class="title fs12">Upload</p>
       </div>
       `
@@ -77,11 +77,11 @@
         <div class="camerabg">
           <canvas></canvas>
         </div>
-         <img draggable="false" ondrag="return false" ondragdrop="return false" ondragstart="return false"  class="eye x1" src="../assets/img/x.svg" alt="x">
-         <img draggable="false" ondrag="return false" ondragdrop="return false" ondragstart="return false"  class="eye x2" src="../assets/img/x.svg" alt="x">
+         <img draggable="false" ondrag="return false" ondragdrop="return false" ondragstart="return false"  class="eye x1" src="./assets/img/x.svg" alt="x">
+         <img draggable="false" ondrag="return false" ondragdrop="return false" ondragstart="return false"  class="eye x2" src="./assets/img/x.svg" alt="x">
         </div>
         <div class="btn btn-upload">
-        <img src="../assets/img/Camera.svg" alt="camera">
+        <img src="./assets/img/Camera.svg" alt="camera">
         <p class="title fs12">Retake</p>
       </div>
       </div>
@@ -93,12 +93,12 @@
     <div id="ssright">
       <div id="info" class="ssInfo">
         <div>
-          <p class="backnav fs14 title"><img class="aleft" src="../assets/img/arrow_left.svg" alt=" "> Back</p>
+          <p class="backnav fs14 title"><img class="aleft" src="./assets/img/arrow_left.svg" alt=" "> Back</p>
           <p class="title fs20">Adjust the Image</p>
           <ol class="fs14">
             <li>Drag the RED targets to the center of your eyes.</li>
             <li>Drag to reposition photo</li>
-            <li>Set your PD, if you know it. <img class="help" src="../assets/img/help.svg" alt="help">
+            <li>Set your PD, if you know it. <img class="help" src="./assets/img/help.svg" alt="help">
             </li>
             <input min="30" type="number" class="fs14 pd" placeholder="62">
             <li>Adjust the photo with the controls.</li>
